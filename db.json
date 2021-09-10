@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "seat": "2",
+      "food": "golgappa",
+      "id": 37
+    },
+    {
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "seat": "3",
+      "food": "samosa",
+      "id": 38
+    },
+    {
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "seat": "4",
+      "food": "vadapav",
+      "id": 39
+    },
+    {
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "seat": "5",
+      "food": "golgappa",
+      "id": 40
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "seat": "6",
+      "food": "chola-puri",
+      "id": 41
+    },
+    {
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "seat": "7",
+      "food": "chola-puri",
+      "id": 42
+    },
+    {
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "seat": "1",
+      "food": "samosa",
+      "id": 43
+    }
+  ]
+}
