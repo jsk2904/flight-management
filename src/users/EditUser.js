@@ -62,7 +62,7 @@ const EditUser = () => {
 				<input type='text' value={seat} name='seat' onChange={onInputChange} />
 
 				<button type='submit' value='Submit'>
-					Update user
+					Update
 				</button>
 			</form>
 		</div>
